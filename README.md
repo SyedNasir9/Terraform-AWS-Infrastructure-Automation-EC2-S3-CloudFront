@@ -26,6 +26,7 @@ This project was built as part of my Cloud & DevOps learning journey to gain han
 -GitHub – Version control
 
 📂 Project Structure
+
 Terraform-ec2-s3-cloudfront/
 │
 ├── infra/                      # Terraform configuration files
@@ -43,6 +44,7 @@ Terraform-ec2-s3-cloudfront/
 │   └── terraform-apply.png
 │
 └── README.md                    # Project documentation
+
 
 ⚙️ How It Works
 
