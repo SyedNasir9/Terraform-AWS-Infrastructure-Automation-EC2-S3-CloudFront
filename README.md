@@ -104,3 +104,5 @@ Learned about modularization of Terraform code.
 Hands-on with EC2, S3, and CloudFront integration.
 
 Improved skills in Git + GitHub project structuring.
+
+
