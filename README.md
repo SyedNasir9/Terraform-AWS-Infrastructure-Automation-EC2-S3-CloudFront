@@ -376,6 +376,4 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-**⭐ If this project helped you learn Terraform and AWS, please give it a star!**
-
 > *"Infrastructure as Code is not just about automation; it's about creating reliable, repeatable, and scalable systems that empower teams to innovate faster."*
